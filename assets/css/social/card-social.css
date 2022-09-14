@@ -1,0 +1,5 @@
+.card_social {
+    background-color: var(--cor-card);
+    padding: 24px 32px 32px 32px;
+    border-radius: 8px;
+}

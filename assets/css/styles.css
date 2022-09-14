@@ -1,0 +1,54 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;900&display=swap');
+
+@import url(../css/cabeçalho/cabecalho.css);
+@import url(../css/cabeçalho/cabecalho-img.css);
+
+@import url(../css/principal.css);
+
+@import url(../css/titlemain.css);
+
+@import url(../css/description.css);
+
+@import url(../css/games/games-list.css);
+@import url(../css/games/games-list-item.css);
+@import url(../css/games/games-list-img.css);
+@import url(../css/games/card-games.css);
+
+@import url(../css/channel/channel-list.css);
+@import url(../css/channel/channel-list-item.css);
+@import url(../css/channel/channel-list-img.css);
+@import url(../css/channel/card-channel.css);
+
+@import url(../css/social/social-list.css);
+@import url(../css/social/card-social.css);
+
+
+
+
+
+:root {
+    --cor-de-fundo: #121214;
+    --cor-descricao_games: #A1A1AA;
+    --fonte: "Inter", sans-serif;
+    --cor-card: #2A2634;
+}
+
+
+body {
+    background-image: url(../img/bg.jpg);
+    background-position: top center;
+    background-size: 100% auto;
+    background-repeat: no-repeat;
+    background-color: var(--cor-de-fundo);
+    line-height: 160%;
+   
+}
+
+section {
+    background-image: linear-gradient(90deg, #9572FC 0%, #43E7AD 50.52%, #E2D45C 100%);
+    padding-top: 4px;
+    border-radius: 10px;
+}
+
+

@@ -1,0 +1,5 @@
+.social_list {
+    display: flex;
+    gap: 16px;
+    margin-top: 24px;
+}

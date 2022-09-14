@@ -1,0 +1,6 @@
+.description{
+    font-family: var(--fonte);
+    font-weight: 400;
+    color: var(--cor-descricao_games);
+    letter-spacing: -0.18px;
+}
