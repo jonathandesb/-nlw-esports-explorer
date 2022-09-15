@@ -22,8 +22,9 @@
 
 @import url(../css/social/social-list.css);
 @import url(../css/social/card-social.css);
+@import url(../css/social/social-list-item.css);
 
-
+@import url(../css/animation.css);
 
 
 
@@ -50,5 +51,6 @@ section {
     padding-top: 4px;
     border-radius: 10px;
 }
+
 
 

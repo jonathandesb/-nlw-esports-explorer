@@ -1,3 +1,8 @@
 .games_list-item {
     border-radius: 10px;
+    transition: transform .3s;
+}
+
+.games_list-item:hover {
+    transform: scale(1.1);
 }

@@ -1,7 +1,7 @@
-.channel_list-item {
+.social_list-item {
     transition: transform .3s;
 }
 
-.channel_list-item:hover {
+.social_list-item:hover {
     transform: scale(1.1);
 }
