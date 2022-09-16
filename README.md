@@ -1,4 +1,4 @@
-#NLW eSports 
+NLW eSports 
 
 ![preview](preview.png)
 > Trilhar Explorer
