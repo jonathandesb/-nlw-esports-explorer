@@ -13,5 +13,5 @@ Projeto construído do evento Next Level Week da Rocketseat.
 - CSS
 - Git e Github
 
-🧙🏾‍♂️ Contato
+🧙🏾‍♂️ Contato 🧙🏾‍♂️ 
 jonathandsb20@gmail.com
