@@ -8,10 +8,12 @@ Projeto construído do evento Next Level Week da Rocketseat.
 
 [🔗 Clique aqui para acessar](https://jonathandesb.github.io/-nlw-esports-explorer/")
 
+
 🛠️ Tecnologias
 - HTML
 - CSS
 - Git e Github
 
-🧙🏾‍♂️ Contato 
+
+🧙🏾 Contato 
 jonathandsb20@gmail.com
